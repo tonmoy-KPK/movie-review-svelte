@@ -25,7 +25,7 @@
   </div>
 
   <div
-    class="my-16 mx-auto max-w-5xl rounded-lg p-8 flex gap-8 border border-gray-100 lg:flex-row flex-col"
+    class="my-16 mx-auto max-w-5xl rounded-lg py-8 lg:px-8 px-2 flex gap-8 border border-gray-100 lg:flex-row flex-col"
   >
     <div class="lg:w-1/3 w-full">
       <img
