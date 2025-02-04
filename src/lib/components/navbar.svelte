@@ -47,7 +47,7 @@
       </div>
 
       <div>
-        <a href="#" class="text-sm/6 font-semibold text-gray-900">
+        <a href="/login" class="text-sm/6 font-semibold text-gray-900">
           Log in <span aria-hidden="true">&rarr;</span>
         </a>
       </div>

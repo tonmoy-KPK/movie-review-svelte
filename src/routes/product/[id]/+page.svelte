@@ -25,9 +25,9 @@
   </div>
 
   <div
-    class="my-16 mx-auto max-w-5xl rounded-lg p-8 flex gap-8 border border-gray-100"
+    class="my-16 mx-auto max-w-5xl rounded-lg p-8 flex gap-8 border border-gray-100 lg:flex-row flex-col"
   >
-    <div class="w-1/3">
+    <div class="lg:w-1/3 w-full">
       <img
         src={movie?.primaryImage}
         alt={movie?.originalTitle}
@@ -35,7 +35,7 @@
       />
     </div>
 
-    <div class="w-2/3">
+    <div class="lg:w-2/3 w-full">
       <h3 class="text-xl font-semibold text-gray-900 mb-4">Movie Details</h3>
       <table class="w-full border-collapse border border-gray-200">
         <tbody>
